@@ -6,7 +6,7 @@
   <img src="banner.png" >
 </p>
 
-# Paulo Reis Ciência de Dados
+# Paulo Reis
 <sub>*Furuto Cientista de Dados*</sub>
 
 Estou em uma jornada tentando aprender todo tipo de técnica para torturar os dados até eles confessarem hehe.
