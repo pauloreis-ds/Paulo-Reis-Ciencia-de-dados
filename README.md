@@ -16,7 +16,7 @@ E como iniciante, quero compartilhar alguns 'projetos' que me ajudaram a pratica
 
 **Links:**
 * [Blog] loading...
-* [LinkedIn] loading...
+* [LinkedIn] https://www.linkedin.com/in/paulo-reis-b1a2101b1/
 
 
 ## Projetos:
