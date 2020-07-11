@@ -9,6 +9,8 @@ No mundo do Big Data, as ferramentas e tecnologias de visualização de dados s�
 Aqui estão alguns dos mini projetos que me guiaram rumo ao domínio da visualização de dados.
 
 
-<img width="450" height="450" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Paulo_Reis.png">
+<p align="center">
+<img width="550" height="550" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Paulo_Reis.png">
+</p>
 
 ---
