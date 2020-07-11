@@ -22,3 +22,6 @@ E como iniciante, quero compartilhar alguns 'projetos' que me ajudaram a pratica
 ## Projetos:
 * **Projeto 1:** Sem_Link_No_Momento_
 * **Projeto 2:** Sem_Link_No_Momento_
+
+---
+<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">
