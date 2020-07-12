@@ -2,7 +2,7 @@
 
 O aprendizado de máquina (em inglês, machine learning) se baseia na ideia de que sistemas podem analisar e aprender com dados para então identificar padrões e tomar decisões com o mínimo de intervenção humana.
 
-De maneira simplificada:
+        De maneira simplificada:
         feature: O que fornecemos para a máquina aprender.
         label: Aquilo que queremos prever.
 
