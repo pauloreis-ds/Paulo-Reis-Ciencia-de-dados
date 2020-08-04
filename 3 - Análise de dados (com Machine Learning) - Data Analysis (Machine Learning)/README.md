@@ -24,7 +24,8 @@ O aprendizado de máquina (em inglês, machine learning) se baseia na ideia de q
                         (input)                                                 (output)
     features = [num_de_lados, num_de_diagonais...]  -->  Modelo(features)  -->  Hexágono        
 
-    > Features são padrões, cores, formas ... ou seja, 'nomes de colunas' no conjunto de dados de treinamento.
+
+    > Features são padrões, cores, formas... ou seja, 'nomes de colunas' no conjunto de dados de treinamento.
       Label é o valor que queremos prever. A resposta que obtemos do nosso modelo após o treinamento.
 
 <p align="center">
@@ -33,15 +34,15 @@ O aprendizado de máquina (em inglês, machine learning) se baseia na ideia de q
 
 A aplicação dos algoritmos de ML se resume a:
       
-      - Separar dados de treino (features - X) e teste (labelS - y)
-            - X, y - de treino 
-            - X, y - de teste
+      - Separar dados de treino (features = X) e teste (labels = y)
+            - X, y - de treino --> O modelo vai aprender a relação (matemática) entre eles.
+            - X, y - de teste --> E depois podemos confirmar se ele realmente aprendeu e acertou nas previsões.
       - Criar o modelo
             - Escolher o mais adequado.
             - Criar o objeto() do modelo para ter acesso a seus métodos.
             - Passar os dados de treinamento.
-            - Fazer as predições com os dados de teste.
-            - Checar a precisão do modelo comparando os dados de teste com as as respostas previstas pelo algoritmo.
+            - Fazer as predições com os dados de teste_X.
+            - Checar a precisão do modelo comparando os dados de teste_y com as as respostas previstas pelo algoritmo.
       
 
 (X, y) de treinamento: Agem no modelo.
