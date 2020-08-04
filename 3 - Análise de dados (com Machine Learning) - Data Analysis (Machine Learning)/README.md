@@ -3,7 +3,7 @@
 O aprendizado de máquina (em inglês, machine learning) se baseia na ideia de que sistemas podem analisar e aprender com dados para então identificar padrões e tomar decisões com o mínimo de intervenção humana.
 
         De maneira simplificada:
-        feature: O que fornecemos para a máquina aprender.
+        feature: O que fornecemos para a máquina "aprender"/prever.
         label: Aquilo que queremos prever.
 
 <p align="center">
@@ -18,6 +18,11 @@ O aprendizado de máquina (em inglês, machine learning) se baseia na ideia de q
 
     > Explicado brevemente, uma feature seria um input (os dados de entrada) que você forneceu ao sistema e o 
       label (rótulo) seria o output (a resposta/previsão) que se espera.
+      
+    Exemplo: classificação/previsão de figuras geométricas.
+
+                        (input)                                                 (output)
+    features = [num_de_lados, num_de_diagonais...]  -->  Modelo(features)  -->  Hexágono        
 
     > Features são padrões, cores, formas ... ou seja, 'nomes de colunas' no conjunto de dados de treinamento.
       Label é o valor que queremos prever. A resposta que obtemos do nosso modelo após o treinamento.
