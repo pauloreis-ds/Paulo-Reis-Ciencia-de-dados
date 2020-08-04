@@ -49,9 +49,9 @@ A aplicação dos algoritmos de ML se resume a:
 
 (X, y) de teste: validam o modelo.
 
-Os recursos de treinamento são os dados que fornecemos ao nosso modelo durante o treinamento, juntamente com as respostas corretas. O objetivo é que o modelo faça um mapeamento entre as features e os labels.
+Os recursos de treinamento/features (training_X) são os dados que fornecemos ao nosso modelo durante o treinamento, juntamente com as respostas corretas/labels (training_y). O objetivo é que o modelo faça um mapeamento entre as features e os labels.
 
-O conjunto de recursos de teste é usado para avaliar o modelo treinado. **O modelo não tem permissão para ver as respostas para o conjunto de testes e deve fazer previsões usando apenas os recursos de treinamento**. Conhecemos as respostas para o conjunto de testes para que possamos comparar as previsões do teste com as respostas.
+O conjunto de recursos de teste é usado para avaliar o modelo treinado. **O modelo não tem permissão para ver as respostas do conjunto de testes e deve fazer previsões usando apenas o aprendizado sobre os recursos de treinamento**. Conhecemos as respostas para o conjunto de testes para que possamos comparar as previsões do teste com as respostas.
 
 <p align="center">
 <img  height="300" src="https://github.com/pauloreis-ds/Paulo-Reis-Ciencia-de-dados/blob/master/3%20-%20An%C3%A1lise%20de%20dados%20(com%20Machine%20Learning)%20-%20Data%20Analysis%20(Machine%20Learning)/just_images/feature_label1.png">
