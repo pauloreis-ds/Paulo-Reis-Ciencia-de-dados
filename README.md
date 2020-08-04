@@ -28,4 +28,4 @@ E como iniciante, quero compartilhar alguns projetos que me ajudaram a praticar 
 ---
 
 
-Checklist para Projetos de Data Science: https://github.com/carlosfab/sigmoidal_ai/blob/master/notebooks/Checklist%20para%20Data%20Science.ipynb
+[Checklist para Projetos de Data Science](https://github.com/carlosfab/sigmoidal_ai/blob/master/notebooks/Checklist%20para%20Data%20Science.ipynb)
