@@ -47,7 +47,7 @@ A aplicação dos algoritmos de ML se resume a:
 
 (X, y) de treinamento: Agem no modelo.
 
-(X, y) de teste: validam o modelos.
+(X, y) de teste: validam o modelo.
 
 Os recursos de treinamento são os dados que fornecemos ao nosso modelo durante o treinamento, juntamente com as respostas corretas. O objetivo é que o modelo faça um mapeamento entre as features e os labels.
 
