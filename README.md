@@ -7,7 +7,7 @@
 </p>
 
 # Paulo Reis
-<sub>*Furuto Cientista de Dados*</sub>
+<sub>*Futuro Cientista de Dados*</sub>
 
 Estou em uma jornada tentando aprender todo tipo de técnica para torturar os dados até eles confessarem hehe.
 E como iniciante, quero compartilhar alguns projetos que me ajudaram a praticar e aprender novos conhecimentos.
