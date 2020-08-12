@@ -18,8 +18,8 @@ E como iniciante, quero compartilhar alguns projetos que me ajudaram a praticar 
 **Background:** loading...
 
 **Links:**
-* [Blog] loading...
-* [LinkedIn] https://www.linkedin.com/in/paulo-reis-b1a2101b1/
+* [Medium](https://medium.com/@pauloreis.py)
+* [LinkedIn](https://www.linkedin.com/in/paulo-reis-b1a2101b1/)
 
 
 ## Projetos:
