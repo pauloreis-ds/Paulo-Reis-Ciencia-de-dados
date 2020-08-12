@@ -12,6 +12,9 @@
 Estou em uma jornada tentando aprender todo tipo de técnica para torturar os dados até eles confessarem hehe.
 E como iniciante, quero compartilhar alguns projetos que me ajudaram a praticar e aprender novos conhecimentos.
 
+> "_A ideia no precipício era me jogar em uma quinzena de esforço para criar 5 projetinhos sobre cada tópico \[...] Quanta ingenuidade kkkk, levei bem mais que 15 dias \[...] O fato é: \[...] Se atalho fosse bom, ele seria o caminho._". Ciência de Dados — [Como se tornar um Data Scientist](https://medium.com/@pauloreis.py/ci%C3%AAncia-de-dados-como-se-tornar-um-data-scientist-d2b6366fbe1f).
+
+
 **Background:** loading...
 
 **Links:**
