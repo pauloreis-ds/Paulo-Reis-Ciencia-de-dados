@@ -12,19 +12,18 @@
 Estou em uma jornada tentando aprender todo tipo de técnica para torturar os dados até eles confessarem hehe.
 E como iniciante, quero compartilhar alguns projetos que me ajudaram a praticar e aprender novos conhecimentos.
 
-> "_A ideia no precipício era me jogar em uma quinzena de esforço para criar 5 projetinhos sobre cada tópico \[...] Quanta ingenuidade kkkk, levei bem mais que 15 dias \[...] O fato é: \[...] Se atalho fosse bom, ele seria o caminho._". Ciência de Dados — [Como se tornar um Data Scientist](https://medium.com/@pauloreis.py/ci%C3%AAncia-de-dados-como-se-tornar-um-data-scientist-d2b6366fbe1f).
+> "_A ideia no precipício era me jogar em uma quinzena de esforço para criar 5 projetinhos sobre cada tópico \[...] Quanta ingenuidade kkkk, levei bem mais que 15 dias \[...] O fato é: \[...] Se atalho fosse bom, ele seria o caminho._". Ciência de Dados — [Minha Jornada](https://sites.google.com/view/pauloreis/artigos/minha-jornada).
 
 
 **Background:** loading...
 
 **Links:**
-* [Medium](https://medium.com/@pauloreis.py)
+* [Blog](https://sites.google.com/view/pauloreis/in%C3%ADcio-py)
 * [LinkedIn](https://www.linkedin.com/in/paulo-reis-b1a2101b1/)
 
 
 ## Projetos:
-* **Projeto 1:** Sem_Link_No_Momento_
-* **Projeto 2:** Sem_Link_No_Momento_
+[* **Prevendo Preços de Apartamentos de Recife:**](https://github.com/pauloreis-ds/Projetos/tree/master/Previs%C3%A3o%20-%20Pre%C3%A7o%20Apartamentos%20Recife)
 
 <img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">
 
