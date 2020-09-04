@@ -23,7 +23,7 @@ E como iniciante, quero compartilhar alguns projetos que me ajudaram a praticar 
 
 
 ## Projetos:
-[* **Prevendo Preços de Apartamentos de Recife:**](https://github.com/pauloreis-ds/Projetos/tree/master/Previs%C3%A3o%20-%20Pre%C3%A7o%20Apartamentos%20Recife)
+[**Prevendo Preços de Apartamentos de Recife.**](https://github.com/pauloreis-ds/Projetos/tree/master/Previs%C3%A3o%20-%20Pre%C3%A7o%20Apartamentos%20Recife)
 
 <img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">
 
