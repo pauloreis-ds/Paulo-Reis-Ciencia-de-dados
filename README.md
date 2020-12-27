@@ -22,8 +22,10 @@ E como iniciante, quero compartilhar alguns projetos que me ajudaram a praticar 
 * [LinkedIn](https://www.linkedin.com/in/paulo-reis-b1a2101b1/)
 
 
-## Projetos:
+## Projetos de Estudo:
 [**Prevendo Preços de Apartamentos de Recife.**](https://github.com/pauloreis-ds/Projetos/tree/master/Previs%C3%A3o%20-%20Pre%C3%A7o%20Apartamentos%20Recife)
+
+[**Desafio - House Rocket.**](https://github.com/pauloreis-ds/Projetos/tree/master/Desafio%20-%20House%20Rocket)
 
 <img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">
 
@@ -31,3 +33,5 @@ E como iniciante, quero compartilhar alguns projetos que me ajudaram a praticar 
 
 
 [Checklist para Projetos de Data Science](https://github.com/carlosfab/sigmoidal_ai/blob/master/notebooks/Checklist%20para%20Data%20Science.ipynb)
+
+[Data Science Pipeline](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Data%20Science%20Pipeline.ipynb)
