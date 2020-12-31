@@ -34,4 +34,4 @@ E como iniciante, quero compartilhar alguns projetos que me ajudaram a praticar 
 
 [Checklist para Projetos de Data Science](https://github.com/carlosfab/sigmoidal_ai/blob/master/notebooks/Checklist%20para%20Data%20Science.ipynb)
 
-[Data Science Pipeline](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Data%20Science%20Pipeline.ipynb)
+[Data Science Pipeline](https://github.com/pauloreis-ds/projects/blob/main/Data%20Science%20Pipeline.ipynb)
